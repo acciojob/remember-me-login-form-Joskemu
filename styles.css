@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+body {
+  font-family: Arial, sans-serif;
+}
+
+form {
+  margin-top: 20px;
+}
+
+input[type="text"], input[type="password"] {
+  display: block;
+  margin-bottom: 10px;
+}
+
+button {
+  margin-top: 10px;
+}
